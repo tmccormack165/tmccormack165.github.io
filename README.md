@@ -1,3 +1,7 @@
+# Quickstart
+
+Go to [https://tmccormack165.github.io/](url)
+
 # image-tech
 
 A website featuring image technologies that I've developed supporting authentication in art
