@@ -1,6 +1,6 @@
 # Quickstart
 
-Go to [tmccormack165.github.io](url)
+Go to [http://tmccormack165.github.io](url)
 
 # image-tech
 
